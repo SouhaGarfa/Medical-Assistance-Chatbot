@@ -1,6 +1,6 @@
-# 🩺 Medical-Assistance-Chatbot
+#  Medical-Assistance-Chatbot
 
-> **Internship project @ [Multiverse AI](https://www.multiverse-ai.com)**  
+> **Internship project @ [Multiverse AI]**  
 > Supervised by **Amine MOSBAH** · Summer 2025  
 > Stack: Python · FastAPI · Groq VLM · LLaMA-4 · HTML/CSS/JS
 
